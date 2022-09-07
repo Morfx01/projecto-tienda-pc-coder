@@ -95,3 +95,13 @@ ul {
 #marca {
    position: center;
 }
+#boton {
+   width: 100px;
+   height: 100px;
+   background-color: grey;
+   border: solid 1px;
+}
+#boton:hover {
+   padding: 20px;
+   transform: scale(2,1);
+}
